@@ -71,8 +71,7 @@ module.exports = function (ctx) {
     build: {
       scopeHoisting: true,
       distDir: 'docs',
-      vueRouterMode: 'history',
-      publicPath: 'https://w3as.github.io/metodologia-react',
+      // vueRouterMode: 'history',
       // vueCompiler: true,
       // gzip: true,
       // analyze: true,
