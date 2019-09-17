@@ -31,7 +31,7 @@ Além disso, o REACT embasamento nas práticas da Engenharia de Requisitos Ágil
 
 <br><br><br><br>
 
-## ⏳  **5 cerimônias** [(mais detalhes)](/#/cerimonias)
+## ⏳  **5 cerimônias** [(mais detalhes)](/cerimonias)
 -  **Inception**: Obter uma visão do produto pretendido, das metas de negócio do customer e de seus usuários-chave. 
 - **Story Discovery**: Elicitar os requisitos do software, assim como, obter uma visão geral do domínio do negócio.
 - **Refining**: Refinar os requisitos com mais detalhes que permitam um melhor entendimento dos requisitos por todos.
