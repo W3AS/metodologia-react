@@ -33,7 +33,7 @@
             <q-icon name="home" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>HOME</q-item-label>
+            <q-item-label>Home</q-item-label>
             <q-item-label caption></q-item-label>
           </q-item-section>
         </q-item>
