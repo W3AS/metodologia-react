@@ -1,26 +1,10 @@
-# Metodologia React (metodologia-react)
+# Metodologia React
 
-Metodologia REACT por W3AS
+<img src="https://github.com/W3AS/metodologia-react/blob/dev/src/statics/react.png?raw=true">
 
-## Install the dependencies
-```bash
-npm install
-```
+Documentação do processo facilitador **REACT**.
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+Acesse nosso [documentação online](https://w3as.github.io/metodologia-react/#/) para saber mais detalhes sobre o REACT.
 
-### Lint the files
-```bash
-npm run lint
-```
 
-### Build the app for production
-```bash
-quasar build
-```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
